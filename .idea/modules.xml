@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-hello-world/01-hello-world.iml" filepath="$PROJECT_DIR$/01-hello-world/01-hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-variables/02-variables.iml" filepath="$PROJECT_DIR$/02-variables/02-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-fonctions/03-fonctions.iml" filepath="$PROJECT_DIR$/03-fonctions/03-fonctions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Cours_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Cours_Kotlin.iml" />
     </modules>
   </component>
