@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-conditions/05-conditions.iml" filepath="$PROJECT_DIR$/05-conditions/05-conditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-boucles/06-boucles.iml" filepath="$PROJECT_DIR$/06-boucles/06-boucles.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-smart-cast/07-smart-cast.iml" filepath="$PROJECT_DIR$/07-smart-cast/07-smart-cast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-exceptions/08-exceptions.iml" filepath="$PROJECT_DIR$/08-exceptions/08-exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Cours_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Cours_Kotlin.iml" />
     </modules>
   </component>
